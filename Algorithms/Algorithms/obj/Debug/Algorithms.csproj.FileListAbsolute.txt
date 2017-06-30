@@ -1,0 +1,6 @@
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb

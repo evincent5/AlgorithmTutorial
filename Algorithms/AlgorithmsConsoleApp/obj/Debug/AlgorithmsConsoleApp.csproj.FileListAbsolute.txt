@@ -1,0 +1,6 @@
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\AlgorithmsConsoleApp\bin\Debug\AlgorithmsConsoleApp.exe.config
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\AlgorithmsConsoleApp\bin\Debug\AlgorithmsConsoleApp.exe
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\AlgorithmsConsoleApp\bin\Debug\AlgorithmsConsoleApp.pdb
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\AlgorithmsConsoleApp\obj\Debug\AlgorithmsConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\AlgorithmsConsoleApp\obj\Debug\AlgorithmsConsoleApp.exe
+c:\users\emmanuel\documents\visual studio 2015\Projects\Algorithms\AlgorithmsConsoleApp\obj\Debug\AlgorithmsConsoleApp.pdb
